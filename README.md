@@ -1,2 +1,2 @@
 # DMIA_Project
-1. Customer busket analysis competition.
+- Customer busket analysis competition.
