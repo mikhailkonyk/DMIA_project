@@ -1,6 +1,0 @@
-jupyter
-nbconvert
-pandoc
-nbsphinx
-IPython
-ipykernel
